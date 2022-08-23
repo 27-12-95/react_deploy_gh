@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "homepage": "https://27-12-95.github.io/react_deploy_gh",
   "private": true,
+  "proxy": "https://27-12-95.github.io/react_deploy_gh",
   "dependencies": {
     "colornames": "^1.1.1",
     "react": "^18.2.0",
